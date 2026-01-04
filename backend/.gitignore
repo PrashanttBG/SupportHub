@@ -1,0 +1,27 @@
+# Compiled files
+target/
+*.class
+
+# Log files
+*.log
+logs/
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+
+# Spring Boot
+*.jar
+!.mvn/wrapper/maven-wrapper.jar
+application-local.yml
+application-local.properties
+
