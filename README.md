@@ -64,6 +64,11 @@ npm run dev
 
 Frontend will start at: http://localhost:5173
 
+### ScreenShot
+
+<img width="1653" height="901" alt="Screenshot 2026-01-04 205319" src="https://github.com/user-attachments/assets/466a98bd-975f-43cf-aa01-2741a146c008" />
+
+
 ## Using the Application
 
 1. Open http://localhost:5173 in your browser
